@@ -27,10 +27,12 @@
 
 ## 使用說明
 LineBot-ID : @999dxuyu
+
 連結的公開資料庫 :
 - (https://tw.portal-pokemon.com/play/pokedex)
 - (https://wiki.52poke.com/zh-hant/%E7%89%B9%E6%80%A7%E5%88%97%E8%A1%A8)
 - (https://zh.wikipedia.org/wiki/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%88%97%E8%A1%A8)
+
 操作方式 :
 1. 輸入該寶可夢圖鑑編號 ex:001
     多種型態的可帶入_數字 ex:006_1
